@@ -36,4 +36,11 @@ public class TC01 extends BaseTest
 	{
 		System.out.println("pull the updated code from Repo");
 	}
+
+@Test 
+public void Enchancments()
+{
+	System.out.println("Branched the repo for enchancements ");
+	System.out.println("Updated");
+}
 }	
