@@ -28,12 +28,12 @@ public class TC01 extends BaseTest
   @Test 
   public void InvalidLogin()
   {
-	  
+	  System.out.println("Push the updated code from cloned Repo");
   }
 
 @Test 
 	public void RepoCode()
 	{
-		
-  
-}
+		System.out.println("pull the updated code from Repo");
+	}
+}	
